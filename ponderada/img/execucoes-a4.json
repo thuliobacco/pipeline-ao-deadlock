@@ -1,0 +1,251 @@
+[
+  {
+    "autor": "Thúlio Sallum Bacco Pinto",
+    "d1": 6,
+    "d2": 2,
+    "python": "3.12.10",
+    "sistema": "Windows-11-10.0.26200-SP0",
+    "fim_utc": "2026-11-04T18:38:18.446581+00:00",
+    "sha256_experimento": "5e54fcf8ac42fe607e64d78745da52bfb596b47f53228707cc7ac97fe0bdb7ef",
+    "limite_sem_consumo_s": 1.0,
+    "atraso_inicial_consumidor_s": 0.002,
+    "intervalo_troca_python_s": 0.0001,
+    "resultados": [
+      {
+        "versao": 1,
+        "n": 5,
+        "alvo": 20000,
+        "produzidas": 20000,
+        "consumidas": 21254,
+        "unicas_validas": 18457,
+        "perdidas": 1543,
+        "duplicadas": 2797,
+        "fora_faixa": 0,
+        "quebras_ordem": 5791,
+        "travou": false,
+        "motivo": "produtor encerrou e contador indicou buffer vazio",
+        "ocupados_ao_parar": 0,
+        "estados_ao_parar": {
+          "produtor": "encerrado",
+          "consumidor": "encerrado"
+        },
+        "threads_encerradas": true,
+        "erros": [],
+        "duracao_s": 0.156,
+        "execucao": 1
+      },
+      {
+        "versao": 1,
+        "n": 5,
+        "alvo": 20000,
+        "produzidas": 20000,
+        "consumidas": 20330,
+        "unicas_validas": 18648,
+        "perdidas": 1352,
+        "duplicadas": 1682,
+        "fora_faixa": 0,
+        "quebras_ordem": 5729,
+        "travou": false,
+        "motivo": "produtor encerrou e contador indicou buffer vazio",
+        "ocupados_ao_parar": 0,
+        "estados_ao_parar": {
+          "produtor": "encerrado",
+          "consumidor": "encerrado"
+        },
+        "threads_encerradas": true,
+        "erros": [],
+        "duracao_s": 0.157,
+        "execucao": 2
+      },
+      {
+        "versao": 1,
+        "n": 5,
+        "alvo": 20000,
+        "produzidas": 20000,
+        "consumidas": 21485,
+        "unicas_validas": 18243,
+        "perdidas": 1757,
+        "duplicadas": 3242,
+        "fora_faixa": 0,
+        "quebras_ordem": 5847,
+        "travou": false,
+        "motivo": "produtor encerrou e contador indicou buffer vazio",
+        "ocupados_ao_parar": 0,
+        "estados_ao_parar": {
+          "produtor": "encerrado",
+          "consumidor": "encerrado"
+        },
+        "threads_encerradas": true,
+        "erros": [],
+        "duracao_s": 0.172,
+        "execucao": 3
+      }
+    ]
+  },
+  {
+    "autor": "Thúlio Sallum Bacco Pinto",
+    "d1": 6,
+    "d2": 2,
+    "python": "3.12.10",
+    "sistema": "Windows-11-10.0.26200-SP0",
+    "fim_utc": "2026-11-04T18:38:20.165024+00:00",
+    "sha256_experimento": "5e54fcf8ac42fe607e64d78745da52bfb596b47f53228707cc7ac97fe0bdb7ef",
+    "limite_sem_consumo_s": 1.0,
+    "atraso_inicial_consumidor_s": 0.002,
+    "intervalo_troca_python_s": 0.0001,
+    "resultados": [
+      {
+        "versao": 2,
+        "n": 5,
+        "alvo": 20000,
+        "produzidas": 20000,
+        "consumidas": 20000,
+        "unicas_validas": 20000,
+        "perdidas": 0,
+        "duplicadas": 0,
+        "fora_faixa": 0,
+        "quebras_ordem": 0,
+        "travou": false,
+        "motivo": "alvo de consumos alcançado",
+        "ocupados_ao_parar": 0,
+        "estados_ao_parar": {
+          "produtor": "encerrado",
+          "consumidor": "encerrado"
+        },
+        "threads_encerradas": true,
+        "erros": [],
+        "duracao_s": 0.36,
+        "execucao": 1
+      },
+      {
+        "versao": 2,
+        "n": 5,
+        "alvo": 20000,
+        "produzidas": 20000,
+        "consumidas": 20000,
+        "unicas_validas": 20000,
+        "perdidas": 0,
+        "duplicadas": 0,
+        "fora_faixa": 0,
+        "quebras_ordem": 0,
+        "travou": false,
+        "motivo": "alvo de consumos alcançado",
+        "ocupados_ao_parar": 0,
+        "estados_ao_parar": {
+          "produtor": "encerrado",
+          "consumidor": "encerrado"
+        },
+        "threads_encerradas": true,
+        "erros": [],
+        "duracao_s": 0.437,
+        "execucao": 2
+      },
+      {
+        "versao": 2,
+        "n": 5,
+        "alvo": 20000,
+        "produzidas": 20000,
+        "consumidas": 20000,
+        "unicas_validas": 20000,
+        "perdidas": 0,
+        "duplicadas": 0,
+        "fora_faixa": 0,
+        "quebras_ordem": 0,
+        "travou": false,
+        "motivo": "alvo de consumos alcançado",
+        "ocupados_ao_parar": 0,
+        "estados_ao_parar": {
+          "produtor": "encerrado",
+          "consumidor": "encerrado"
+        },
+        "threads_encerradas": true,
+        "erros": [],
+        "duracao_s": 0.344,
+        "execucao": 3
+      }
+    ]
+  },
+  {
+    "autor": "Thúlio Sallum Bacco Pinto",
+    "d1": 6,
+    "d2": 2,
+    "python": "3.12.10",
+    "sistema": "Windows-11-10.0.26200-SP0",
+    "fim_utc": "2026-11-04T18:38:23.657738+00:00",
+    "sha256_experimento": "5e54fcf8ac42fe607e64d78745da52bfb596b47f53228707cc7ac97fe0bdb7ef",
+    "limite_sem_consumo_s": 1.0,
+    "atraso_inicial_consumidor_s": 0.002,
+    "intervalo_troca_python_s": 0.0001,
+    "resultados": [
+      {
+        "versao": 3,
+        "n": 5,
+        "alvo": 20000,
+        "produzidas": 5,
+        "consumidas": 0,
+        "unicas_validas": 0,
+        "perdidas": 20000,
+        "duplicadas": 0,
+        "fora_faixa": 0,
+        "quebras_ordem": 0,
+        "travou": true,
+        "motivo": "consumidor ficou pelo menos 1 s sem receber",
+        "ocupados_ao_parar": 5,
+        "estados_ao_parar": {
+          "produtor": "espera vazio, retém mutex",
+          "consumidor": "espera mutex, reservou cheio"
+        },
+        "threads_encerradas": true,
+        "erros": [],
+        "duracao_s": 1.015,
+        "execucao": 1
+      },
+      {
+        "versao": 3,
+        "n": 5,
+        "alvo": 20000,
+        "produzidas": 5,
+        "consumidas": 0,
+        "unicas_validas": 0,
+        "perdidas": 20000,
+        "duplicadas": 0,
+        "fora_faixa": 0,
+        "quebras_ordem": 0,
+        "travou": true,
+        "motivo": "consumidor ficou pelo menos 1 s sem receber",
+        "ocupados_ao_parar": 5,
+        "estados_ao_parar": {
+          "produtor": "espera vazio, retém mutex",
+          "consumidor": "espera mutex, reservou cheio"
+        },
+        "threads_encerradas": true,
+        "erros": [],
+        "duracao_s": 1.0,
+        "execucao": 2
+      },
+      {
+        "versao": 3,
+        "n": 5,
+        "alvo": 20000,
+        "produzidas": 5,
+        "consumidas": 0,
+        "unicas_validas": 0,
+        "perdidas": 20000,
+        "duplicadas": 0,
+        "fora_faixa": 0,
+        "quebras_ordem": 0,
+        "travou": true,
+        "motivo": "consumidor ficou pelo menos 1 s sem receber",
+        "ocupados_ao_parar": 5,
+        "estados_ao_parar": {
+          "produtor": "espera vazio, retém mutex",
+          "consumidor": "espera mutex, reservou cheio"
+        },
+        "threads_encerradas": true,
+        "erros": [],
+        "duracao_s": 1.016,
+        "execucao": 3
+      }
+    ]
+  }
+]
